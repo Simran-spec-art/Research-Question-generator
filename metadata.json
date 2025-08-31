@@ -1,0 +1,5 @@
+{
+  "name": "Research Question Generator",
+  "description": "An interactive canvas to teach researchers and students how structured prompts can scaffold the design of research questions using AI.",
+  "requestFramePermissions": []
+}
